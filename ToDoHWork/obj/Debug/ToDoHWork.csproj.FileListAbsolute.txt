@@ -1,0 +1,15 @@
+C:\Documents\Project\ToDoHWork\ToDoHWork\bin\Debug\ToDoHWork.exe.config
+C:\Documents\Project\ToDoHWork\ToDoHWork\bin\Debug\ToDoHWork.exe
+C:\Documents\Project\ToDoHWork\ToDoHWork\bin\Debug\ToDoHWork.pdb
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork.csprojAssemblyReference.cache
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\MainWindow.g.cs
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\App.g.cs
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork_MarkupCompile.cache
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork_MarkupCompile.lref
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\MainWindow.baml
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork.g.resources
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork.Properties.Resources.resources
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork.csproj.GenerateResource.cache
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork.csproj.CoreCompileInputs.cache
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork.exe
+C:\Documents\Project\ToDoHWork\ToDoHWork\obj\Debug\ToDoHWork.pdb
